@@ -1,1 +1,4 @@
 first file created again
+x = 3
+y = 5
+sum = x + y
